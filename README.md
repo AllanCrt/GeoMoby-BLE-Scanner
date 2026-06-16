@@ -8,7 +8,7 @@ An Android application that discovers nearby Bluetooth Low Energy (BLE) beacons,
 
 ## 📱 Quick Testing
 
-For quick testing, a pre-compiled debug APK will be available in the GitHub Releases section once the repository is pushed and a release is created:
+For quick testing, a pre-compiled debug APK is available in the GitHub Releases section:
 👉 **[Download APK from GitHub Releases](https://github.com/AllanCrt/GeoMoby-BLE-Scanner/releases)**
 
 ---
