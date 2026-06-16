@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme for the Activity before Compose takes over rendering.
+         Uses Material3 DayNight to support dark/light system settings,
+         though our Compose theme forces dark mode. -->
+    <style name="Theme.BLEScanner" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
